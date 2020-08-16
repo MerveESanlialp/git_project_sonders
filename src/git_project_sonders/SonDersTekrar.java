@@ -6,6 +6,8 @@ public class SonDersTekrar {
 		System.out.println("14:55 master branch");
 		
 		System.out.println("15:05 master branch");
+		
+		System.out.println("15:17 master branch");
 
 	}
 
